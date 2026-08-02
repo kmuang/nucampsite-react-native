@@ -1,56 +1,8 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="674" height="404" alt="Screenshot 2026-08-02 at 5 07 18 PM" src="https://github.com/user-attachments/assets/0c51a70b-4c9b-424b-a024-ef0893aa7de6" />
+<img width="674" height="802" alt="Screenshot 2026-08-02 at 5 07 12 PM" src="https://github.com/user-attachments/assets/53483edb-c2e4-4d18-923d-9fa4363beaf4" />
+<img width="675" height="229" alt="Screenshot 2026-08-02 at 5 07 06 PM" src="https://github.com/user-attachments/assets/31e5da3f-8150-4099-ae87-85da426f6ee6" />
+<img width="673" height="356" alt="Screenshot 2026-08-02 at 5 07 00 PM" src="https://github.com/user-attachments/assets/b55ad852-7bf6-4997-9993-b72fb30fa75f" />
+<img width="673" height="1069" alt="Screenshot 2026-08-02 at 5 06 52 PM" src="https://github.com/user-attachments/assets/94a71cc8-23b6-4f37-9182-586febe11809" />
+<img width="673" height="1025" alt="Screenshot 2026-08-02 at 5 06 29 PM" src="https://github.com/user-attachments/assets/d04261af-c2e5-459e-807b-124d2242865f" />
+<img width="672" height="1021" alt="Screenshot 2026-08-02 at 5 06 20 PM" src="https://github.com/user-attachments/assets/3553d50a-d888-4941-9e65-ce16a48dd4c7" />
+<img width="672" height="699" alt="Screenshot 2026-08-02 at 5 06 42 PM" src="https://github.com/user-attachments/assets/0edd2e97-673a-4fbb-acdc-78e1ddd2fe63" />
